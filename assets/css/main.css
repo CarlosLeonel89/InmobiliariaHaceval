@@ -945,7 +945,7 @@ input::-moz-focus-inner {
 		input[type="button"].next,
 		button.next,
 		.button.next {
-			padding-right: 4.5em;
+			padding-right: 5.5em;
 			position: relative;
 		}
 
